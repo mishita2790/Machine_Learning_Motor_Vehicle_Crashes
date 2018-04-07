@@ -1,10 +1,12 @@
 # Motor Vehicle Crashes in New York
 ## Summary
 
-*This repository includes the data analysis of motor vehicle crashes in New York. 
-*Applied machine learning classification decision trees and clustering and retreive the following interesting findings: 
+* Motor vehicle crashes are the leading cause of injury related death for New York State residents. Analysis of these accidents is important to know the driver's activity before the accident, to see if the majority of accidents have occured due to any specific prior action, to analyze the different types of contributing factors to the accident such as texting on phone, etc. 
 
-*Finding 1: Bicycles see more accidents from poor environments while motorcycles see more accidents from unsafe driving.
+* This repository includes the data analysis of motor vehicle crashes in New York. 
+* Applied machine learning classification decision trees and clustering and retreive the following interesting findings: 
+
+* Finding 1: Bicycles see more accidents from poor environments while motorcycles see more accidents from unsafe driving.
 In addition both bicycles and motorcycles are seeing reductions in poor environment accidents over time, while unsafe driving is on the rise.
 
 * Finding 2: Even though Suburbans are commonly considered safer than sedans due to their increased size and relatively lower accident count, Suburbans are more prone to indulging in an accident when the driver is backing.
